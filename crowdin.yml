@@ -1,0 +1,3 @@
+files:
+  - source: posts/*.md
+    translation: posts/%locale%/%original_file_name%
